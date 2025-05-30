@@ -3,9 +3,7 @@
 Aplikasi GUI sederhana untuk menghitung **berat badan ideal** berdasarkan **tinggi badan** dan **jenis kelamin**. Dibuat dengan Python, menggunakan pustaka `ttkbootstrap` untuk tampilan modern berbasis `Tkinter`.
 
 ## 📸 Demo Highlights
-
-*(Tambahkan screenshot aplikasi di sini jika ada)*  
-![Contoh Gambar]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2025-05-30 151918.png")  
+![Screenshot 2025-05-30 151918](https://github.com/user-attachments/assets/c2af4afc-d140-444e-9200-18ee65898405)
 
 ## ✨ Fitur
 - Input tinggi badan dalam cm.
